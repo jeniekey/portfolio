@@ -1,0 +1,35 @@
+
+
+body {
+    margin: 0;
+    
+}
+
+
+div  {
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(185, 127, 240);
+    overflow: hidden;
+    font-size: larger;
+    position: sticky;
+}
+
+nav li {
+    float: left;
+
+
+}
+nav li a {
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: white;
+}
